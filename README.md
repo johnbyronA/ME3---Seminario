@@ -26,7 +26,6 @@ El dataset encontrado en la página anterior consta de más de 60 columnas y má
 
 #### INSTRUCCIONES:
 
-INSTRUCCIONES:
 1. Ingresar a https://colab.research.google.com/
 2. Dar clic en la opción "Subir", posteriormente dar clic en la opción "Explorar".
 3. Ubicar el archivo "Entrega_3_seminario_DESCRIPTIVA.ipynb" dentro del PC local.
