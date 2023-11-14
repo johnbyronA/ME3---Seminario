@@ -19,7 +19,7 @@ El nombre de la base de datos es "Base de Datos SISBEN 2017", la cual proviene d
 
 El enlace directo al dataset es el siguiente: http://medata.gov.co/dataset/base-de-datos-sisben-2017
 
-El dataset encontrado en la página anterior consta de más de 60 columnas y más de un millón de filas de registros; sin embargo, para el alcance del análisis para la entrega #3 de la asignatura Seminario de la Especialización en Analítica y Ciencia de Datos 2023, se tuvieron en cuenta tan solo 50 columnas y 1000 filas de datos, las cuales fueron consideradas como las más significativas para efectos de posteriores análisis estadísticos. Dicho dataset está contenido en el archivo con nombre bd_entrega_3_seminario.csv
+El dataset encontrado en la página anterior consta de más de 60 columnas y más de un millón de filas de registros; sin embargo, para el alcance del análisis para la entrega #3 de la asignatura Seminario de la Especialización en Analítica y Ciencia de Datos 2023, se tuvieron en cuenta tan solo 50 columnas y 1000 filas de datos, las cuales fueron consideradas como las más significativas para efectos de posteriores análisis estadísticos. Dicho dataset está contenido en el archivo con nombre bd_entrega3_entrada.csv
 
 
 ### Pasos para la ejecución del código
